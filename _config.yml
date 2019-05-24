@@ -89,7 +89,7 @@ disqus-shortname:
 
 # Use a complete url here, including http:// and such. Requiring just usernames
 # has been considered, but this is way more customizable.
-twitter:
+twitter: https://twitter.com/cyrildewit
 youtube:
 instagram:
 tumblr:
@@ -97,14 +97,14 @@ facebook:
 google-plus:
 reddit:
 soundcloud:
-medium:
-linkedin:
-github:
+medium: https://medium.com/@cyrildewit
+linkedin: https://www.linkedin.com/in/cyrildewit/
+github: https://github.com/cyrildewit
 behance:
 codepen:
 dribbble:
 trello:
-stack-overflow:
+stack-overflow: https://stackoverflow.com/users/3993415/cyril-de-wit
 bitcoin:
 paypal:
 
