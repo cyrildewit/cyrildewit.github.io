@@ -8,7 +8,7 @@ description:
   meta: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content.
 
   # Description of your site. This will show up on the front page.
-  subtitle: My name is Cyril de Wit and I am a seventeen years old web developer based in Monnickendam, The Netherlands. I currently work for <a href="https://www.closure.nl">Closure</a>.
+  subtitle: My name is Cyril de Wit and I am a seventeen years old web developer based in Monnickendam, The Netherlands. I am currently working at <a href="https://www.closure.nl">Closure</a> where I use Laravel and VueJS to build awesome things.
 
 author:
   name: Cyril de Wit # Change this!
