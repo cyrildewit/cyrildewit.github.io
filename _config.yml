@@ -1,6 +1,6 @@
 
 # The name of your website.
-name: Holo Alfa
+name: Cyril de Wit
 
 description:
 
@@ -11,7 +11,7 @@ description:
   subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/stijnvc/holo-alfa">&lt;/&gt; on Github</a>.
 
 author:
-  name: Dr. Jekyll # Change this!
+  name: Cyril de Wit # Change this!
 
   # Necessary for contact page
   email: your@email.com # Change this!
@@ -20,8 +20,8 @@ author:
   # want it.
   info:
 
-url: http://steinvc.github.io
-baseurl: "/holo-alfa"
+url: http://cyrildewit.github.io
+baseurl: "/"
 
 # language attribute in <html> element.
 lang: en
