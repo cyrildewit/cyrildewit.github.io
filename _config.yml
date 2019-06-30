@@ -11,10 +11,10 @@ description:
   subtitle: My name is Cyril de Wit and I am a seventeen years old web developer based in Monnickendam, The Netherlands. I am currently working at <a href="https://www.closure.nl">Closure</a> where I use Laravel and VueJS to build awesome things.
 
 author:
-  name: Cyril de Wit # Change this!
+  name: Cyril de Wit
 
   # Necessary for contact page
-  email: your@email.com # Change this!
+  email: your@email.com
 
   # Optional text (html) to display after author name. Leave empty if you don't
   # want it.
@@ -35,7 +35,7 @@ lang: en
 # If you want to show the subtitle anywhere else than the front page, use
 # {% include subtitle.html %} to include it anywhere you want.
 show-subtitle: true
-display-social-icons: false
+display-social-icons: true
 # If you want social links to open in a new tab, set this as true
 social-icons-open-newtab: true
 
@@ -51,7 +51,7 @@ theme-color-attr: "#2CC990"
 ms-tile-color: "#2CC990"
 
 # Color used throughout the theme. Format: R, G, B.
-theme-color: 0, 240, 255 # Original: 0, 240, 255
+theme-color: 44, 201, 144 # Original: 0, 240, 255
 
 # Text color used throughout the theme. Format: R, G, B.
 text-color: 0, 0, 0 # Original: 0, 0, 0
@@ -149,7 +149,6 @@ defaults:
     values:
       layout: "post"
       excerpt_separator: "<!--more-->"
-  -
   -
     scope:
       path: "blog"
