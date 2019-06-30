@@ -4,9 +4,9 @@ title: My notes from the foreword of "Clean Code"
 
 A while ago, I bought a book called "Clean Code". It's written by Robert Cecil Martin, also known as "Uncle Bob". He is an American software engineer and instructor.
 
-This book has been in my closet for a while now and today I finally had the time and mindset to start reading it. I always find it difficult to remember the information from a thick book for a long period. Eventually I forget or twist the information. Reading a book only requires time and energy. Finding the time and energy isn't a big deal for my, because I'm always very enthusiastic about new insights from resources and want to share them with everyone. This works prettry well, until months have passed and I completly forgot what I read and didn't do anything with information.
+This book has been in my closet for a while now and today I finally had the time and mindset to start reading it. I always find it difficult to remember the information from a thick book for a long period. Eventually I forget or twist the information. Reading a book only requires me time and energy. Finding the time and energy isn't a big deal for me, because I'm always very enthusiastic about my new insights from resources and I want to share them with friends and other people. This works prettry well, until months have passed and I completly forgot what I read and didn't do anything with information.
 
-To avoid this and actually learn something from it for the long term, I have decided that I am going to make notes of each chapter and do some extra research about the topic in other resources. This way I have a collection of all the important information this book offers. By adding references to the pages, I also make it easy to quickly find something and reread the material again.
+To avoid this and actually learn something from it for the long term, I have decided that I am going to make notes of each chapter and do some extra research about the topic. This way I have a collection of all the important information this book offers. By adding references to the page numbers, I also make it incredible easy to find a topic and reread the material again.
 
 Today, I started with the foreword. It's written by someone else, named James O. Coplien.
 
