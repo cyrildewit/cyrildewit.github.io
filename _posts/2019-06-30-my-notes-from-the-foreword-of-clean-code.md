@@ -40,4 +40,4 @@ This means being honest:
 
 ---
 
-_Please by this book if you want know more about the above notes. These notes only serve as a quick reference to important information in the book. If these notes are too insightfull and in conflict with the copyright, please get in touch with me._
+_Please buy this book if you want know more about the above notes. These notes only serve as a quick reference to important information in the book. If these notes are too insightfull and in conflict with the copyright, please get in touch with me._
