@@ -37,3 +37,7 @@ This means being honest:
 * with ourselves about our code
 
 "Did we do our best to leave the code base cleaner than we found it?"
+
+---
+
+_Please by this book if you want know more about the above notes. These notes only serve as a quick reference to important information in the book. If these notes are too insightfull and in conflict with the copyright, please get in touch with me._
