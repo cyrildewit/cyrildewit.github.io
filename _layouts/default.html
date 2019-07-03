@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang }}" prefix="og: http://ogp.me/ns#">
 <head>
-	{% include head.html %}
+    {% include head.html %}
+
+    {% include cookie-consent.html %}
 </head>
 <body>
 
@@ -32,7 +34,7 @@
     {% include footer.html %}
 
     {% if jekyll.environment == 'production' %}
-        {% include analytics.html %}
+        {% include google-analytics.html %}
     {% endif %}
 
 </body>
