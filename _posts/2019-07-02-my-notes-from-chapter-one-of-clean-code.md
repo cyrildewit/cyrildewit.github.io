@@ -18,7 +18,7 @@ Follow up of [My notes from the introduction of "Clean Code"]({{ site.baseurl }}
 
 ### Bad Code
 
-A company behind a killer app went out of business as a result of bad code.as
+A company behind a killer app went out of business as a result of bad code.
 
 <small>_Page: 2_</small>
 
