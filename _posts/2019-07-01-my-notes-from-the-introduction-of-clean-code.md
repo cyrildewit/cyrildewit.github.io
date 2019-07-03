@@ -25,4 +25,6 @@ Second part consists of several case studies of ever-increasing complexity.
 
 Third part is the payoff: a single chapter containing a list of heuristics and smells gathered while creating the case studies.
 
+---
+
 _Please buy this book if you want know more about the above notes. These notes only serve as a quick reference to important information in the book. If these notes are too insightfull and in conflict with the copyright, please get in touch with me._
