@@ -30,7 +30,7 @@ home: true
         {% if post.summary %}
             {{ post.summary }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}">{{ site.var_read }}  →</a>
         {% else %}
-            {{ post.excerpt | remove: '<p>' | remove: '</p>' | truncate: 156 }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}">{{ site.var_read }}  →</a>
+            {{ post.excerpt | remove: '<p>' | remove: '</p>' | truncate: 432 }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}">{{ site.var_read }}  →</a>
         {% endif %}
         </p>
     </article>
