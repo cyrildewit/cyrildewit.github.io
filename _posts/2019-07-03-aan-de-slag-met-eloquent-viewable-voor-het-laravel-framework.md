@@ -16,7 +16,7 @@ Om dit pakket te kunnen gebruiken dien je het eerst te installeren. Open je opdr
 composer require cyrildewit/eloquent-viewable
 ```
 
-> Houd er rekening mee dat dit pakket een aantal vereisten heeft. Deze kun je vinden in de [README]([#](https://github.com/cyrildewit/eloquent-viewable#requirements)).
+> Houd er rekening mee dat dit pakket een aantal vereisten heeft. Deze kun je vinden in de [README](https://github.com/cyrildewit/eloquent-viewable#requirements).
 
 De serviceprovider wordt automatisch geregistreerd door de zogenaamde ‘package discovery’, oftewel pakketdetectie.
 
