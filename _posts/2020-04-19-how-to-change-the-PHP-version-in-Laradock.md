@@ -2,7 +2,7 @@
 title: How to change the PHP version in Laradock?
 ---
 
-I've recently switched to Laradock as my primary local development setup for Laravel. It's a full PHP development environment based on Docker. It took me a few days to properly set it up and learn the basics of Docker itself. Laradock offers a flexible way to initialize all kind of services, like
+I've recently switched to Laradock as my primary local development setup for Laravel. It's a full PHP development environment based on Docker. It took me a few days to properly set it up and learn the basics of Docker. Laradock comes with big a list of premade images you can use.
 
 I previously used Laravel Homestead, an official, a pre-packaged Vagrant box that provides something similar. To run this box I had to install VirtualBox. This setup works totally fine and is very reliable, but I wanted to switch to a more general solution. I do still use it on my Laptop.
 
