@@ -16,7 +16,7 @@ Om dit pakket te kunnen gebruiken dien je het eerst te installeren. Open je opdr
 composer require cyrildewit/eloquent-viewable
 ```
 
-> Houd er rekening mee dat dit pakket een aantal vereisten heeft. Deze kun je vinden in de [README]([#](https://github.com/cyrildewit/eloquent-viewable#requirements)).
+> Houd er rekening mee dat dit pakket een aantal vereisten heeft. Deze kun je vinden in de [README](https://github.com/cyrildewit/eloquent-viewable#requirements).
 
 De serviceprovider wordt automatisch geregistreerd door de zogenaamde ‘package discovery’, oftewel pakketdetectie.
 
@@ -50,29 +50,30 @@ php artisan migrate
 
 Om de paginaweergaven van een Eloquent model bij te houden moet het model de volgende interface en trait implementeren.
 
-- Interface: `use CyrildeWit\EloquentViewable\Viewable;`
-- Trait: `use CyrildeWit\EloquentViewable\Contracts\Viewable`;
+- Interface: `use CyrildeWit\EloquentViewable\Contracts\Viewable;`
+- Trait: `use CyrildeWit\EloquentViewable\InteractsWithViews`;
 
 Voorbeeld:
 
 ```php
 use Illuminate\Database\Eloquent\Model;
-use CyrildeWit\EloquentViewable\Viewable;
-use CyrildeWit\EloquentViewable\Contracts\Viewable as ViewableContract;
+use CyrildeWit\EloquentViewable\InteractsWithViews;
+use CyrildeWit\EloquentViewable\Contracts\Viewable;
 
-class Post extends Model implements ViewableContract
+class Post extends Model implements Viewable
 {
-    use Viewable;
+    use InteractsWithViews;
 
     // ...
 }
 ```
 
-De `Viewable` trait voegt de volgende methodes toe aan je model:
+De `InteractsWithViews` trait voegt de volgende methodes toe aan je model:
 
 - `views()` - Many To Many (Polymorphic) relatie met de weergaven tabel
 - `orderByViews` - Query scope die de resultaten sorteert op het aantal weergaven
 - `orderByUniqueViews` - Query scope die de resultaten sorteert op het aantal **unieke** weergaven
+- `withViewsCount` - Query scope die de views count toevoegd aan de query
 
 ## Paginaweergaven vastleggen
 
