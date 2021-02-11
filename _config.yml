@@ -5,16 +5,16 @@ name: Cyril de Wit
 description:
 
   # Description of your site. This will show up in google.
-  meta: Self-taught Web Developer | Laravel enthousiast & open soure lover.
+  meta: Software Developer at Edubookers.com | Laravel enthousiast & open soure lover.
 
   # Description of your site. This will show up on the front page.
-  subtitle: My name is Cyril de Wit and I am a web developer based in Monnickendam, The Netherlands. I am currently working remotely at <a href="https://www.closure.nl" target="_blank">Closure</a> where I use Laravel and Vue.js to build awesome things.
+  subtitle: My name is Cyril de Wit and I am a software developer based in Eindhoven, The Netherlands. I am currently working at <a href="https://www.edubookers.com" target="_blank">Edubookers.com</a>. My primary technology stack consists of PHP, Laravel, Vue.js and Tailwind CSS but I like to tinker around with other tools whenever I can. For example Next.js, Flutter, Arduino, C# and Java.
 
 author:
   name: Cyril de Wit
 
   # Necessary for contact page
-  email: your@email.com
+  email: hello@cyrildewit.nl
 
   # Optional text (html) to display after author name. Leave empty if you don't
   # want it.
